@@ -12,9 +12,6 @@ This server accepts clients and manages their requests.
 * Accept or deny friend requests;
 * Cancel a sended friend request.
 
-### Images
-
-
 <br>
 <br>
 <br>
