@@ -1,0 +1,8 @@
+Id
+Username
+Email
+Nome
+Password
+Amico1;Amico2;Amico3;
+RichiestaDa1;RichiestaDa2;RichiestaDa3;
+RichiestaA1;RichiestaA2;
